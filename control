@@ -1,0 +1,9 @@
+Package: com.phillipt.switcherlimiter
+Name: SwitcherLimiter
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Limit amount of cards shown in Multitasking
+Maintainer: Phillip Tennen
+Author: Phillip Tennen
+Section: Tweaks
